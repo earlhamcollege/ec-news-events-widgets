@@ -1,0 +1,1 @@
+# ec-news-events-widgets
